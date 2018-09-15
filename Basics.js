@@ -39,5 +39,5 @@ console.log("vy+=5;");
 y+=5;
 console.log("var y;");
 var y;
-console.log("y"+y)
+console.log("y"+y);
 
